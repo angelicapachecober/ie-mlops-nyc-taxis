@@ -8,8 +8,12 @@ __pycache__/
 
 # Local MLflow database (should not be in version control)
 mlflow.db
+mlflow_backend.db
 mlruns/
 mlartifacts/
+
+# Jupyter
+.ipynb_checkpoints/
 
 # IDE / OS specific
 .vscode/
